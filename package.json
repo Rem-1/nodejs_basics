@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maksym Meleshko",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
